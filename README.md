@@ -1,1 +1,3 @@
-# Capture_Auto_Acquisition
+# 概要
+
+指定URLのキャプチャを自動取得し、指定の名前にrename
