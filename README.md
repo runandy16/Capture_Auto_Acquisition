@@ -5,7 +5,7 @@
 ## インストール
  
 ```
-$ git clone https://github.com/runandy16/Twitter.git
+$ git clone https://github.com/runandy16/Capture_Auto_Acquisition.git
 $ apt-get update
 $ apt install chromium-chromedriver
 $ cp /usr/lib/chromium-browser/chromedriver /usr/bin
